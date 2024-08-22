@@ -68,6 +68,10 @@ K-Means Clustering was employed to group customers into clusters based on their 
 
 ![clusters](https://github.com/user-attachments/assets/fc096f94-f0a7-4dc0-abdd-839538712d4f)
 
+### Elbow method:
+
+![Values of K](https://github.com/user-attachments/assets/af539b1f-1c5d-4a79-85c7-0eaa8c26a97e)
+
 
 ## Recommendations
 Based on the cluster analysis, the following recommendations are made:
@@ -85,13 +89,13 @@ Based on the cluster analysis, the following recommendations are made:
 2. **Product Development**: Align product offerings with the specific needs identified within each cluster.
 3. **Customer Service**: Enhance service delivery for high-value segments to improve satisfaction and loyalty.
 
-### Elbow method:
 
-![Values of K](https://github.com/user-attachments/assets/af539b1f-1c5d-4a79-85c7-0eaa8c26a97e)
 
 
 ## Conclusion
 This project successfully segmented customers into distinct clusters, providing valuable insights into customer behaviors and enabling more effective marketing, product development, and customer retention strategies. The approach demonstrates the power of K-Means Clustering in revealing underlying patterns within customer data in the banking and financial services industry.
+
+[Processed Dataset Link - Output](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/9e7a0c10f0a974d2f798f5f3d3653a50e901ecf6/Clustered_Customer_Data.csv)
 
 
 
