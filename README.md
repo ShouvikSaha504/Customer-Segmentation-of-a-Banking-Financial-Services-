@@ -73,16 +73,17 @@ K-Means Clustering was employed to group customers into clusters based on their 
 ![Values of K](https://github.com/user-attachments/assets/af539b1f-1c5d-4a79-85c7-0eaa8c26a97e)
 
 
+## Insights 
+- **Customer Diversity**: The analysis revealed significant diversity in customer behaviors and needs, emphasizing the importance of targeted strategies.
+- **Strategic Focus**: Clusters with high profitability potential should be the focus of strategic efforts to maximize revenue.
+- **Actionable Insights**: The segmentation provides actionable insights into how to approach different customer groups with tailored solutions.
+
 ## Recommendations
 Based on the cluster analysis, the following recommendations are made:
 1. **Tailored Marketing Strategies**: Develop personalized marketing campaigns targeting specific clusters.
 2. **Product Optimization**: Introduce or modify products that align with the needs of high-value clusters.
 3. **Customer Retention Programs**: Implement loyalty programs for clusters identified as at-risk for churn.
 
-## Insights and Conclusions
-- **Customer Diversity**: The analysis revealed significant diversity in customer behaviors and needs, emphasizing the importance of targeted strategies.
-- **Strategic Focus**: Clusters with high profitability potential should be the focus of strategic efforts to maximize revenue.
-- **Actionable Insights**: The segmentation provides actionable insights into how to approach different customer groups with tailored solutions.
 
 ## Actionables
 1. **Marketing**: Customize campaigns based on cluster profiles to increase engagement.
