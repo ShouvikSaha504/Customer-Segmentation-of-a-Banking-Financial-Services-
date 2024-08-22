@@ -10,6 +10,8 @@ The objective of this project is to segment customers in the banking and financi
 
 ## Dataset Description
 
+[Dataset Link](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/f861cc0a5cb25d993a0cb23f4a2346984684fc4c/Customer%20Data.csv)
+
 The dataset used in this project is focused on customer credit card usage data within the banking and financial services industry. Below is a detailed description of each attribute in the dataset:
 
 - **CUST_ID**: Unique identifier for each customer.
