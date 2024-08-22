@@ -8,6 +8,32 @@ In the highly competitive **Banking and Financial Services Industry**, understan
 ## Objective
 The objective of this project is to segment customers in the banking and financial services industry based on their behaviors and characteristics using K-Means Clustering. This segmentation will help in tailoring marketing strategies, improving customer retention, and optimizing product offerings.
 
+## Dataset Description
+
+The dataset used in this project is focused on customer credit card usage data within the banking and financial services industry. Below is a detailed description of each attribute in the dataset:
+
+- **CUST_ID**: Unique identifier for each customer.
+- **BALANCE**: The current balance on the credit card account.
+- **BALANCE_FREQUENCY**: Frequency of balance updates; measures how often the balance is updated.
+- **PURCHASES**: Total amount of purchases made with the credit card.
+- **ONEOFF_PURCHASES**: Total amount of purchases made in a single transaction.
+- **INSTALLMENTS_PURCHASES**: Total amount of purchases made in installments.
+- **CASH_ADVANCE**: Total amount of cash advances taken using the credit card.
+- **PURCHASES_FREQUENCY**: Frequency of purchases made with the credit card.
+- **ONEOFF_PURCHASES_FREQUENCY**: Frequency of one-off purchases made with the credit card.
+- **PURCHASES_INSTALLMENTS_FREQUENCY**: Frequency of installment purchases made with the credit card.
+- **CASH_ADVANCE_FREQUENCY**: Frequency of cash advances taken.
+- **CASH_ADVANCE_TRX**: Total number of cash advance transactions.
+- **PURCHASES_TRX**: Total number of purchase transactions.
+- **CREDIT_LIMIT**: The credit limit assigned to the credit card.
+- **PAYMENTS**: Total amount of payments made towards the credit card balance.
+- **MINIMUM_PAYMENTS**: Minimum amount required to be paid towards the credit card balance.
+- **PRC_FULL_PAYMENT**: Percentage of total balance paid off in full each month.
+- **TENURE**: Duration of the credit card account in months.
+
+This dataset captures a comprehensive range of credit card usage behaviors and financial attributes, which are critical for performing customer segmentation and understanding different spending patterns within the banking sector.
+
+
 ## Methodology
 The project follows these steps:
 1. **Data Collection & Preprocessing**: Collected customer data and cleaned it by handling missing values, outliers, and normalizing the data.
