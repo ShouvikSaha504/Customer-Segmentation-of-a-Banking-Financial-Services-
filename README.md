@@ -70,6 +70,8 @@ K-Means Clustering was employed to group customers into clusters based on their 
 
 ### Elbow method:
 
+[Image Link](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/78b5b3ce959aa1ca877b4fc0a413c79105c73fe4/Values%20of%20K.png)
+
 ![Values of K](https://github.com/user-attachments/assets/af539b1f-1c5d-4a79-85c7-0eaa8c26a97e)
 
 
